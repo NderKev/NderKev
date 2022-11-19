@@ -6,7 +6,7 @@
 -    Twitter : https://twitter.com/nderebakelvin
 -    Whatsapp : +254743039398
 -    Telegram : https://t.me/EthCryptoDev
--    
+-    Gmail : nderebakelvin@gmail.com
 
 <!---
 NderKev/NderKev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,7 +2,7 @@
 - 👀 I’m interested in Blockchain Development using nodejs, solidity, truffle, hardhat, web3.js, and javascript.
 - 🌱 I’m currently learning Golang, Rust, and IOT.
 - 💞️ I’m looking to collaborate on Blockchain, AI, IoT, DeFi, and Fintech projects.
-- 📫 Reach me on LinkedIn : https://www.linkedin.com/in/kelvin-ngendo-%F0%9F%87%B0%F0%9F%87%AA-3a014098/
+- 📫 Reach me on LinkedIn : https://www.linkedin.com/in/kelvin-ngendo-3a014098/
 -    Twitter : https://twitter.com/nderebakelvin
 -    Whatsapp : +254743039398
 -    Telegram : https://t.me/EthCryptoDev

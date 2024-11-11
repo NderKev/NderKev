@@ -3,9 +3,10 @@
 - 🌱 I’m currently learning Golang, Rust, and IOT.
 - 💞️ I’m looking to collaborate on Blockchain, AI, IoT, DeFi, and Fintech projects.
 - 📫 Reach me on LinkedIn : https://www.linkedin.com/in/kelvin-ngendo-3a014098/
+-    Website : https://nderkev.netlify.app
 -    Twitter : https://twitter.com/nderebakelvin
 -    Whatsapp : +254743039398
--    Telegram : https://t.me/EthCryptoDev
+-    Telegram : https://t.me/EthBTCDev
 -    Gmail : nderebakelvin@gmail.com
 
 <!---

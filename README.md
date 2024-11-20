@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on Blockchain, AI, IoT, DeFi, and Fintech projects.
 - 📫 Reach me on LinkedIn : https://www.linkedin.com/in/kelvin-ngendo-3a014098/
 -    Website : https://nderkev.netlify.app
--    Twitter : https://twitter.com/nderebakelvin
--    Whatsapp : +254743039398
+-    X(Formerly Twitter) : https://x.com/nderebakelvin
+-    Whatsapp : +254743039398/+254108057818
 -    Telegram : https://t.me/EVMBTCDev
 -    Gmail : nderebakelvin@gmail.com
 

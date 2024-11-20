@@ -6,7 +6,7 @@
 -    Website : https://nderkev.netlify.app
 -    Twitter : https://twitter.com/nderebakelvin
 -    Whatsapp : +254743039398
--    Telegram : https://t.me/EthBTCDev
+-    Telegram : https://t.me/EVMBTCDev
 -    Gmail : nderebakelvin@gmail.com
 
 <!---
